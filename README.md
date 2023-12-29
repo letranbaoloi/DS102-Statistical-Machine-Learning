@@ -27,13 +27,13 @@
 | 4      | 21522706      | Nguyễn Minh Trí           |21522706@gm.uit.edu.vn   |
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
-IMAGE CLASSIFICATION FOR TOURIST DESTINATION IN VIET NAM
-# Requirements
+# IMAGE CLASSIFICATION FOR TOURIST DESTINATION IN VIET NAM
+## Requirements
 - Python == 3.9
 - Download package: **_ !pip install -r requirements.txt _**
-# Run
+## Run
 - You should download weight of model file. After that, you add each model file to **_ pretrained _** folder. 
 - **_Download models here !!! [MODELS]()_**
 - **_ Run Streamlit _** streamlit run .\project.py
-# **Demo**
+## **Demo**
 https://github.com/HuynhThien1/DS102-Final-Project/blob/master/assests/demo.webm
