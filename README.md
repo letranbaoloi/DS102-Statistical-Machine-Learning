@@ -36,4 +36,4 @@ IMAGE CLASSIFICATION FOR TOURIST DESTINATION IN VIET NAM
 - **_Download models here !!! [MODELS]()_**
 - **_ Run Streamlit _** streamlit run .\project.py
 # **Demo**
-
+https://github.com/HuynhThien1/DS102-Final-Project/blob/master/assests/demo.webm
