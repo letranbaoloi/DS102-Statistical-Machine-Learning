@@ -31,9 +31,11 @@
 ## Requirements
 - Python == 3.9
 - Download package: **!pip install -r requirements.txt**
-## Run
+## RUN
+- **Dataset** Group created a new dataset(VietTravel). **Download dataset here !!! [DATASET](https://drive.google.com/drive/folders/1O1KdzM46Z0mLT4FcaCchjiG5txabLEls?usp=sharing)**
+- In order to get suggest, you should enter your OpenAI key in folder **secret_key.py**
 - You should download weight of model file. After that, you add each model file to **pretrained** folder. 
 - **Download models here !!! [MODELS](https://drive.google.com/drive/folders/1GJdh2ECYUcqNWYdKMLDfyDIbioH4S0Po?usp=sharing)**
-- **_ Run Streamlit _** streamlit run .\project.py
-## **Demo**
+- **Run Streamlit** streamlit run .\project.py
+## **DEMO**
 https://github.com/HuynhThien1/DS102-Final-Project/blob/master/assests/demo.webm
