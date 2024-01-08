@@ -15,7 +15,7 @@
 * [ Đồ án môn học](#doan)
 ## GIẢNG VIÊN HƯỚNG DẪN
 <a name="giangvien"></a>
-* TS. **Nguyễn Văn Kiệt**
+**TS. Nguyễn Văn Kiệt**
 
 ## THÀNH VIÊN NHÓM
 <a name="thanhvien"></a>
@@ -30,10 +30,10 @@
 # IMAGE CLASSIFICATION FOR TOURIST DESTINATION IN VIET NAM
 ## Requirements
 - Python == 3.9
-- Download package: **_ !pip install -r requirements.txt _**
+- Download package: **!pip install -r requirements.txt**
 ## Run
-- You should download weight of model file. After that, you add each model file to **_ pretrained _** folder. 
-- **_Download models here !!! [MODELS]()_**
+- You should download weight of model file. After that, you add each model file to **pretrained** folder. 
+- **Download models here !!! [MODELS](https://drive.google.com/drive/folders/1GJdh2ECYUcqNWYdKMLDfyDIbioH4S0Po?usp=sharing)**
 - **_ Run Streamlit _** streamlit run .\project.py
 ## **Demo**
 https://github.com/HuynhThien1/DS102-Final-Project/blob/master/assests/demo.webm
