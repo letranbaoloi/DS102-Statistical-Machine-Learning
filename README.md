@@ -38,6 +38,6 @@
 - In order to get suggest, you should enter your OpenAI key in folder **secret_key.py**
 - You should download weight of model file. After that, you add each model file to **pretrained** folder. 
 - **Download pre-trained models here !!! [Pre-trained Models](https://drive.google.com/drive/folders/1GJdh2ECYUcqNWYdKMLDfyDIbioH4S0Po?usp=sharing)**
-- **Run Streamlit** streamlit run project.py
+- **Run Streamlit:** streamlit run project.py
 ## **DEMO**
 https://drive.google.com/file/d/1e4OUdECjTaq5dUiHacStlWXEshdanPrF/view?usp=sharing
