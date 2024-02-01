@@ -13,7 +13,7 @@
 * [ Lecturer](#lecturer)
 * [ Member](#member)
 * [ Project](#project)
-## GIẢNG VIÊN HƯỚNG DẪN
+## Lecturer
 <a name="lecturer"></a>
 **Dr. Nguyen Van Kiet**
 
