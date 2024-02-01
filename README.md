@@ -5,37 +5,39 @@
 </p>
 
 <!-- Title -->
-<h1 align="center"><b>DS102 - Học Máy Thống Kê</b></h1>
+<h1 align="center"><b>DS102 - Statistical Machine Learning</b></h1>
 
 
 
-## BẢNG MỤC LỤC
-* [ Giảng viên hướng dẫn](#giangvien)
-* [ Thành viên nhóm](#thanhvien)
-* [ Đồ án môn học](#doan)
+## Tabel of contents
+* [ Lecturer](#lecturer)
+* [ Member](#member)
+* [ Project](#project)
 ## GIẢNG VIÊN HƯỚNG DẪN
-<a name="giangvien"></a>
-**TS. Nguyễn Văn Kiệt**
+<a name="lecturer"></a>
+**Dr. Nguyen Van Kiet**
 
-## THÀNH VIÊN NHÓM
-<a name="thanhvien"></a>
-| STT    | MSSV          | Họ và Tên               | Email                   |
-| ------ |:-------------:| ----------------------:|-------------------------:
-| 1      | 21522621      | Huỳnh Công Thiện          |21522621@gm.uit.edu.vn   |
-| 2      | 21522295      | Lê Trần Bảo Lợi          |21522295@gm.uit.edu.vn   |
-| 3      | 21522487      | Bùi Đình Quân         |21522487@gm.uit.edu.vn   |
-| 4      | 21522706      | Nguyễn Minh Trí           |21522706@gm.uit.edu.vn   |
-## ĐỒ ÁN MÔN HỌC
-<a name="doan"></a>
+## Member
+<a name="member"></a>
+<a name="member"></a>
+|**ID**|**Student ID**|**Name**|**Email**|
+| ------ |-------------|----------------------|-------------------------|
+| 1      | 21522295   	 |Le Tran Bao Loi|21522295@gm.uit.edu.vn|
+| 2      | 21522621      |Huynh Cong Thien|21522621@gm.uit.edu.vn|
+| 3      | 21522487 	 |Bui Dinh Quan|21522487@gm.uit.edu.vn|
+| 4      | 21522706      |Nguyen Minh Tri|21522706@gm.uit.edu.vn|
+
+## Project
+<a name="project"></a>
 # IMAGE CLASSIFICATION FOR TOURIST DESTINATION IN VIET NAM
 ## Requirements
 - Python == 3.9
-- Download package: **!pip install -r requirements.txt**
-## RUN
+
+## Run project
 - **Dataset** Group created a new dataset(VietTravel). **Download dataset here !!! [DATASET](https://drive.google.com/drive/folders/1O1KdzM46Z0mLT4FcaCchjiG5txabLEls?usp=sharing)**
 - In order to get suggest, you should enter your OpenAI key in folder **secret_key.py**
 - You should download weight of model file. After that, you add each model file to **pretrained** folder. 
-- **Download models here !!! [MODELS](https://drive.google.com/drive/folders/1GJdh2ECYUcqNWYdKMLDfyDIbioH4S0Po?usp=sharing)**
-- **Run Streamlit** streamlit run .\project.py
+- **Download pre-trained models here !!! [Pre-trained Models](https://drive.google.com/drive/folders/1GJdh2ECYUcqNWYdKMLDfyDIbioH4S0Po?usp=sharing)**
+- **Run Streamlit** streamlit run project.py
 ## **DEMO**
-https://github.com/HuynhThien1/DS102-Final-Project/blob/master/assests/demo.webm
+https://drive.google.com/file/d/1e4OUdECjTaq5dUiHacStlWXEshdanPrF/view?usp=sharing
